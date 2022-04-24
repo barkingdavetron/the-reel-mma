@@ -1,0 +1,4 @@
+cd cd /Users/owner/Desktop/website
+npm install
+npm install mma-api
+npm start
